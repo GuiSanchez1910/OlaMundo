@@ -1,0 +1,15 @@
+C:\_ws\OlaMundo\bin\Debug\net7.0\OlaMundo.exe
+C:\_ws\OlaMundo\bin\Debug\net7.0\OlaMundo.deps.json
+C:\_ws\OlaMundo\bin\Debug\net7.0\OlaMundo.runtimeconfig.json
+C:\_ws\OlaMundo\bin\Debug\net7.0\OlaMundo.dll
+C:\_ws\OlaMundo\bin\Debug\net7.0\OlaMundo.pdb
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.csproj.AssemblyReference.cache
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.AssemblyInfoInputs.cache
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.AssemblyInfo.cs
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.csproj.CoreCompileInputs.cache
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.dll
+C:\_ws\OlaMundo\obj\Debug\net7.0\refint\OlaMundo.dll
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.pdb
+C:\_ws\OlaMundo\obj\Debug\net7.0\OlaMundo.genruntimeconfig.cache
+C:\_ws\OlaMundo\obj\Debug\net7.0\ref\OlaMundo.dll
